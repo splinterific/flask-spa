@@ -3,7 +3,7 @@ Flask-Restless==0.13.1
 Flask-SQLAlchemy==0.16
 gunicorn==17.5
 itsdangerous==0.22
-Jinja2==2.7
+Jinja2==2.11.3
 MarkupSafe==0.18
 mimerender==0.5.4
 newrelic==2.66.0.49
